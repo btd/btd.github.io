@@ -54,7 +54,7 @@ I am using square picture there because i can always round it with CSS (even in 
 
 I want to generate different colors avatars depending intials. You can choose random colors, but i think it makes more
 sense to show the same color for the same initials.
-For colors i used in my implementation [this](https://evergreen.segment.com/components/colors) and [schemeCategory20*0](https://bl.ocks.org/pstuffa/3393ff2711a53975040077b7453781a9).
+For colors i used in my implementation [this](https://evergreen.segment.com/components/colors) and [schemeCategory20*](https://bl.ocks.org/pstuffa/3393ff2711a53975040077b7453781a9).
 
 Avatars like this we will have at the end:
 
